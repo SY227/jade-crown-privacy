@@ -465,7 +465,7 @@ Support and privacy communications are optional and separate from normal Jade Cr
 
 Jade Crown does not automatically attach your saved journey, battle state, choices, or local files to an email.
 
-If you contact FoxForge Studio at **simon.yam22@gmail.com**, we receive the information you voluntarily provide.
+If you contact FoxForge Studio at **support@foxforgestudio.ai**, we receive the information you voluntarily provide.
 
 This may include:
 
@@ -479,7 +479,7 @@ This may include:
 
 We use support communications to respond to your request, investigate reported problems, troubleshoot issues, prevent abuse, maintain reasonable support history, and meet applicable legal obligations.
 
-The **simon.yam22@gmail.com** mailbox is provided through **Gmail, operated by Google LLC**.
+The **support@foxforgestudio.ai** mailbox is hosted through **Google Workspace / Gmail, provided by Google LLC**.
 
 Google processes the information necessary to route, deliver, store, secure, and filter those messages according to its applicable policies.
 
@@ -501,11 +501,11 @@ Support emails may be retained while a support request is open and for a reasona
 
 FoxForge Studio does not promise one fixed automatic deletion period for support messages.
 
-Support messages may remain in Gmail according to Google's applicable retention, security, backup, and service practices.
+Support messages may remain in Google Workspace / Gmail according to Google's applicable retention, security, backup, and service practices.
 
 You may request deletion of a support conversation that you previously sent by emailing:
 
-**simon.yam22@gmail.com**
+**support@foxforgestudio.ai**
 
 Please provide enough information to identify the applicable conversation.
 
@@ -539,7 +539,7 @@ Jade Crown does not currently share gameplay or saved-journey data with third-pa
 
 Apple independently provides the operating-system and App Store services described above.
 
-Gmail processes information only when you voluntarily contact FoxForge Studio.
+Google Workspace / Gmail processes information only when you voluntarily contact FoxForge Studio.
 
 Any third party with whom Jade Crown or FoxForge Studio shares user data will provide the **same or equal protection of user data** as stated in this Privacy Policy and as required by Apple's App Review Guidelines.
 
@@ -583,4 +583,4 @@ For questions or privacy requests regarding Jade Crown: Phoenix Rising, contact:
 
 **FoxForge Studio**
 
-**Email:** [simon.yam22@gmail.com](mailto:simon.yam22@gmail.com)
+**Email:** [support@foxforgestudio.ai](mailto:support@foxforgestudio.ai)
