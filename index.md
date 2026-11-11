@@ -1,6 +1,6 @@
 # Jade Crown: Phoenix Rising Privacy Policy
 
-**Last updated:** November 10, 2026
+**Last updated:** November 11, 2026
 
 Jade Crown: Phoenix Rising (“Jade Crown,” “we,” “us”) is a single-player game developed by FoxForge Studio.
 
@@ -22,7 +22,7 @@ This Privacy Policy explains what information the game stores locally, how local
 - Jade Crown does not use CloudKit to synchronize game progress.
 - Jade Crown does not use Game Center in the current release.
 - Jade Crown does not request camera, microphone, location, contacts, or photo-library access.
-- The current app does not include an active purchase or subscription system.
+- Jade Crown offers an optional, one-time Full Campaign in-app purchase through Apple's App Store. There is no recurring subscription.
 - Local recovery and previous-journey copies may be retained on the device to protect game progress.
 - Deleting Jade Crown removes data from the app's active local container, subject to normal iOS backup and restore behavior.
 
@@ -333,6 +333,7 @@ Jade Crown relies on Apple-provided platform technologies such as:
 - UIKit;
 - SpriteKit;
 - AVFoundation;
+- StoreKit for product information, purchases, and verified purchase access;
 - local file storage;
 - file protection; and
 - haptic-feedback APIs.
@@ -373,15 +374,15 @@ Jade Crown does not operate a remote analytics database containing your gameplay
 
 # Purchases and accounts
 
-## 21) No active in-app purchase system in this build
+## 21) Full Campaign in-app purchase
 
-The current attached release does not contain an active StoreKit purchase, subscription, entitlement, or product-loading implementation.
+Jade Crown uses Apple's StoreKit to offer one optional, one-time Full Campaign purchase that unlocks missions 07–48. This is a non-consumable purchase, not a recurring subscription. Missions 01–06 remain free to play.
 
-Jade Crown does not require payment information to operate the gameplay code described in this policy.
+Apple handles payment and purchase restoration through the App Store. Buying and restoring purchases require a connection and may require Apple Account authentication.
 
-Any App Store purchase of the app itself is handled independently by Apple through the App Store.
+The app reads Apple-verified transaction information, including the product identifier, transaction identifier, and entitlement, revocation, or expiration status, to determine whether the Full Campaign is unlocked. This information also lets the app restore access to a previously purchased Full Campaign and respond to refunds or revoked access.
 
-FoxForge Studio does not receive your full payment-card information from Jade Crown.
+The current Jade Crown implementation does not transmit transaction information or your saved journey to a FoxForge Studio server. FoxForge Studio does not receive your full payment-card information from Jade Crown. Apple's handling of purchase and payment information is governed by Apple's applicable policies.
 
 ---
 
@@ -584,3 +585,4 @@ For questions or privacy requests regarding Jade Crown: Phoenix Rising, contact:
 **FoxForge Studio**
 
 **Email:** [support@foxforgestudio.ai](mailto:support@foxforgestudio.ai)
+
